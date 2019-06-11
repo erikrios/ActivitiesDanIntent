@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activities Dan Intent</string>
+    <string name="button_text">Click Me to Open The Other Act</string>
+    <string name="button_text_two">Click Me To Open Another Act</string>
+    <string name="hint_name">Nama</string>
+    <string name="button_ok">OK</string>
+    <string name="buton_back">back</string>
+    <string name="button_send">Send</string>
+    <string name="button_maps">Map</string>
+    <string name="button_calls">Calls</string>
+    <string name="button_browse">Browse</string>
+</resources>
